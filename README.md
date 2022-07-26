@@ -1,9 +1,8 @@
 <div align="center"> 
   
-  ### Hi there 👋
+  ### Hi there 😄👋
 
 <img align="center" alt="GIF" height="300px" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
-<h1>WELLCOME 😄</h1>
 
   
 ## Minhas Estatísticas 
