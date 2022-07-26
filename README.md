@@ -7,7 +7,7 @@
   
 ## Minhas Estatísticas 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjmenezes" alt="pjmenezes"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjmenezes" alt="pjmenezes"/> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmenezes" alt="pjmenezes"/>
 
