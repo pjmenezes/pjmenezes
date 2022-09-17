@@ -11,9 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/pedrojemeson)
  
 - Thanks for visiting. 
- 
-<div align="center"> 
-  
+   
 
   
 ## See my stats 
@@ -23,11 +21,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmenezes" alt="pjmenezes"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjmenezes" alt="pjmenezes"/>
-
-
-
-
-</div>
 
 
 - Enjoy it!! o/
