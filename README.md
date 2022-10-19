@@ -17,4 +17,8 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjmenezes" alt="pjmenezes"/>
 
+## Visitor count
+
+<img src="https://profile-counter.glitch.me/pjmenezes/count.svg" />
+
 </div>
