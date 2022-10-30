@@ -1,24 +1,30 @@
-<div align="center"> 
-  
-  ### Hi there 😄👋
-
-<img align="center" alt="GIF" height="300px" src="https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=790b7611512a847102b76a9492441f4ed770449496200007&rid=giphy.gif&ct=g" />
 
 
-## About me 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/pedrojemeson)
+## Hi! My name is Pedro Menezes  <img align="center" width="100" height="80" src="https://media.tenor.com/-Gm4BBfce-MAAAAi/babyyoda.gif">
+
+  ## <img align="center"  width="100" height="80" src="https://media.tenor.com/images/8d61fe1b532f194dc6a892305b528a9e/tenor.gif">
  
   
-## See my stats 
+  </br>
+ 
+ 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjmenezes" alt="pjmenezes"/> 
+<div >
+  <a href="https://github.com/euconstante">
+  <img height="130em"   align="center" src="https://github-readme-stats.vercel.app/api?username=pjmenezes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmenezes&&layout=compact&hide=shell&theme=gruvbox"/> 
+   <img align="center"  width="120" height="90" src="https://c.tenor.com/k6ObkVLNzF4AAAAj/mandalorian-baby-yoda.gif">
+</div>
+ 
+    
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmenezes" alt="pjmenezes"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjmenezes" alt="pjmenezes"/>
-
-## Visitor count
-
-<img src="https://profile-counter.glitch.me/pjmenezes/count.svg" />
-
+ <br>
+<div  align="center"> 
+  
+  ##
+  
+  <a href="https://www.linkedin.com/in/pedrojemeson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/euconstante/euconstante/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
