@@ -11,7 +11,7 @@
 
 <div >
   <img height="130em"   align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjmenezes&theme=gruvbox"/>
-  <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmenezes&&layout=compact&hide=shell&theme=gruvbox"/> 
+  <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmenezes&&layout=compact&theme=gruvbox"/> 
    <img align="center"  width="120" height="90" src="https://c.tenor.com/k6ObkVLNzF4AAAAj/mandalorian-baby-yoda.gif">
 </div>
  
