@@ -7,12 +7,14 @@
   
   </br>
  
- <div>
-   <img height="130em"   align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pjmenezes&theme=gruvbox"/> 
+  <!--  <div>
+  <img height="130em"   align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pjmenezes&theme=gruvbox"/> 
     <img height="130em"   align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pjmenezes&theme=gruvbox"/> 
     <img height="130em"   align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pjmenezes&theme=gruvbox&utcOffset=8"/> 
+ </div>   --> 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pjmenezes&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pjmenezes&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pjmenezes&theme=gruvbox&utcOffset=8) | 
+| :-: | :-: | :-: | 
 
- </div>
 
 <div >
   <img height="130em"   align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjmenezes&theme=gruvbox"/>
